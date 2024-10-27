@@ -1,5 +1,5 @@
 # Smart Cities: Bridging Tech and Urbanity
-
+![Smart Cities Report](https://github.com/kawthar-boukahil-eng/Smart-Cities-Bridging-Tech-and-Urbanity-Report/blob/main/Smart-Cities-Bridging-Tech-and-Urbanity-Report.png?raw=true)
 ## Abstract:
 This report investigates the transformative role of smart cities in optimizing infrastructure, services, and quality of life through advanced technologies like IoT, AI, and 5G. It discusses challenges such as privacy, equity, and cybersecurity, while exploring future innovations and sustainable urbanism trends.
 
