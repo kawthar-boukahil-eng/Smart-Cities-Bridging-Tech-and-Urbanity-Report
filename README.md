@@ -23,7 +23,10 @@ This report investigates the transformative role of smart cities in optimizing i
 ## List of Tables:
 *No tables listed in this document.*
 
----
+**Note**: The repository serves as a preview of the paper, showcasing the structure and key findings. Full access to the article is restricted. For more information or to request the complete document, please contact me.
 
-**Note:** The full report, including case studies, detailed analysis, and future urban innovation insights, is privately stored and accessible upon request.
+## Why LaTeX and Overleaf?
+This project was created using LaTeX on Overleaf, a cloud-based LaTeX editor widely used in academic and research settings. LaTeX ensures precise typesetting and formatting, which is essential for complex technical documents, while Overleaf facilitates seamless collaboration and efficient document management.
 
+## Contact
+For full access or additional details, feel free to reach out at [kawthar.boukahil@univ-constantine2.dz].
